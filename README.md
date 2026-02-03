@@ -9,7 +9,8 @@ I'm going through the official FastAPI documentation and creating my own distill
 ## Progress
 
 - [x] [Python Types Intro](fastapi_python_types.ipynb) - Type hints, generics, Pydantic basics
-- [ ] Concurrency and async/await
+- [x] [Concurrency and async/await](fastapi_async_await.ipynb)
+- [x] [Environment Variables](fastapi_environment_variables.ipynb)
 - [ ] Tutorial - User Guide
   - [ ] First Steps
   - [ ] Path Parameters
